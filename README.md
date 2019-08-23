@@ -24,7 +24,10 @@
 
 ## 开发日志
 
--[x]react开发todo-list
--[x]react+redux重构
--[x]hooks重构了(在dev-hooks分支下)
--[]hooks+redux重构
+- [x] react开发todo-list
+
+- [x] react+redux重构
+
+- [x] hooks重构了(在dev-hooks分支下)
+
+- [ ] hooks+redux重构
